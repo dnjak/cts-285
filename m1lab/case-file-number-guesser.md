@@ -130,15 +130,6 @@ What could not be determined from the manual? For each, state what you looked fo
 
 **Part II says (quote), or is silent:** "first turn DataMan on with the ON key, and then press the [NUMBER GUESSER] key" in Electro Flash · Number Guesser · Wipe Out (Operating Notes)
 
-**Why this matters to an analyst:** part II is the version written for adults and it names a key the user cannot actually see on the device an analyst who only read part II would write down "[NUMBER GUESSER] key" as the input which is a name for what the key does and not what is printed on it a parent following part II would have to figure out on their own that it means the ??? key and the only way to confirm that is part I the version written for kids when writing down inputs an analyst needs to know if the manual is describing what the user really sees or a made up name and here the two parts disagree part I is also the only place that says pressing the key again starts a new round so someone reading only part II would miss that use of the key completely
+**Why this matters to an analyst:** part II is the version written for adults and it names a key the user cannot actually see on the device. an analyst who only read part II would write down "[NUMBER GUESSER] key" as the input which is a name for what the key does and not what is printed on it. a parent following part II would have to figure out on their own that it means the ??? key and the only way to confirm that is part I, the version written for kids. when writing down inputs an analyst needs to know if the manual is describing what the user really sees or a made up name. here the two parts disagree. part I is also the only place that says pressing the key again starts a new round, so someone reading only part II would miss that use of the key completely
 
----
 
-## Before you submit
-
-- [x] Every finding has a quoted phrase, not a paraphrase.
-- [x] Every quote names the section it came from.
-- [x] I cited section headings, not page numbers.
-- [x] I read both Part I and Part II before writing.
-- [x] Section 8 is not empty.
-- [x] Nothing in Sections 1-6 is a conclusion I could not support.
